@@ -5,5 +5,6 @@ Material2を使ったJetpack Composeで、Android15(SDK35)より強制となるE
 * Material2でとりあえず対応する
 * Material2でキレイに対応する
 * OptOutする
+ 
 の例が見れます。
 
